@@ -6,24 +6,24 @@ This project focuses on the analysis of mouse study data using Python and popula
 
 ## Skills and Tools Utilized
 
-* ### Data Manipulation:
+### Data Manipulation:
 
 * Merging dataframes using pd.merge()
 * Filtering rows using DataFrame.loc[]
 * Grouping and aggregation with DataFrame.groupby() and DataFrame.agg()
 * Calculation of summary statistics (mean, median, variance, standard deviation, and SEM)
 
-* ### Statistical Analysis:
+### Statistical Analysis:
 
 * Calculation of correlation coefficients using st.pearsonr()
 * Linear regression analysis with linregress()
 
-* ### Data Visualization:
+### Data Visualization:
 
 * Creation of bar charts using pandas and numpy libraries
 * Generation of line plots using the matplotlib library
 
-* ### Project Outputs and Visualizations
+### Project Outputs and Visualizations
 
 The analysis produces the following outputs and visualizations:
 
